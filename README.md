@@ -37,5 +37,5 @@ Includes QR-code tickets, admin panel, and SMTP-based notifications.
 
 ## 🌐 Connect
 - 🌍 [bulsahkecici.com](https://bulsahkecici.com) *(coming soon)*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bulsahkecici)  
-- 📧 bulsahkecici@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/bulsahk)  
+- 📧 bulsahk@gmail.com
