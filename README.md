@@ -41,7 +41,6 @@ I also maintain private research repositories for active Kaggle / scientific ML 
 ## Links
 
 - [Portfolio](https://bulsahkecici.com)
+- [LinkedIn](https://www.linkedin.com/in/bulsahk)
 - [Kaggle](https://www.kaggle.com/bulsahkecici)
 - [Hugging Face](https://huggingface.co/Bulka)
-
-> LinkedIn is intentionally omitted here until the public profile URL is re-verified.
